@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 16px;">Charleville Musket</span></strong></p>
+<p><span style="font-size: 11px;">The Charleville musket was a .69 caliber standard French infantry musket used in the 18th and 19th centuries and extensively throughout the Napoleonic wars.</p>
+<p>Known for its reliability and easy manufacture, this weapon is very useful for standardizing the weaponry of a large army and providing a trusty weapon.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: HIGH</span><br><span style="font-family: 'Lucida Console', Monaco, monospace;">RANGE: SHORT<br>RELOAD TIME: LONG<br>MAGAZINE CAPACITY: NO MAGAZINE<br>MUZZLE VELOCITY: LOW<br></span><br><br></p>
+</html>

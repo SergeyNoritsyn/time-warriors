@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 16px;">Maxim Machinegun</span></strong></p>
+<p>The Maxim gun is an early heavy machinegun invented in 1884 and used widely by many different nations in various wars such as World War I and the Russian civil war.</p>
+<p><span style="font-size: 11px;">&nbsp;Known for its extensive magazine and deadly firepower, this weapon is a powerful tool for defending an entrenched position. It does however slow down the movement of its user.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: LOW<br>RANGE: SHORT<br>RELOAD TIME: MAXIMUM<br>MAGAZINE CAPACITY: 200<br>MUZZLE VELOCITY: MEDIUM<br></span><br><br></p>
+</html>

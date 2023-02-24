@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 16px;">1891 Mosin-Nagant</span></strong></p>
+<p><span style="font-size: 11px;">This is a five-shot, bolt-action military rifle developed from 1882 to 1891, and used by the armed forces of the Russian Empire, the Soviet Union and various other nations.</p>
+<p>Known for its reliability and effectiveness in both medium and long range combat, this weapon has trustily served over 27 millions during the 19th and 20th centuries.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: MEDIUM-HIGH<br>RANGE: LONG<br>RELOAD TIME: MEDIUM<br>MAGAZINE CAPACITY: 5<br>MUZZLE VELOCITY: HIGH<br></span><br><br></p>
+</html>

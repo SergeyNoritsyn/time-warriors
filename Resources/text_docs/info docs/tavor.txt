@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 16px;">IWI Tavor-21</span></strong></p>
+<p><span style="font-size: 11px;">This is an automatic bullpup assault rifle used by the Israeli Defence Forces.</p>
+<p>Known for its tactical viability in close quarters combat and in combination with mechanized infantry, &nbsp;this weapon is a reliable choice for hash conditions.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: MEDIUM<br>RANGE: SHORT<br>RELOAD TIME: SHORT<br>MAGAZINE CAPACITY: 30<br>MUZZLE VELOCITY: VERY-HIGH<br></span><br><br></p>
+</html>

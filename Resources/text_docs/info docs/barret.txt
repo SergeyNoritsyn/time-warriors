@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 16px;">Barrett M82</span></strong></p>
+<p><span style="font-size: 11px;">This is a semi-automatic sniper rifle used by the United States military.</p>
+<p>Known for its uses in long range sniping this weapon is a perfect choice for a slow and steady hand.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: HIGH<br>RANGE: MAXIMUM<br>RELOAD TIME: MEDIUM<br>MAGAZINE CAPACITY: 10<br>MUZZLE VELOCITY: MAXIMUM</span><br><br><br></p>
+</html>

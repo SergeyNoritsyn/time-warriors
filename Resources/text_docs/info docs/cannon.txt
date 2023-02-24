@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 19px;">Twelve-Pounder Cannon</span></strong></p>
+<p>The 12-Pounder cannon was the heaviest cannon used by the French during the Napoleonic wars.</p>
+<p><span style="font-size: 11px;">Known for its range and great shrapnel damage, its shells caused immense damage to advancing enemy formations.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: MAXIMUM</span><br><span style="font-family: 'Lucida Console', Monaco, monospace;">RANGE: MEDIUM-LONG<br>RELOAD TIME: MAXIMUM<br>MAGAZINE CAPACITY: NO MAGAZINE<br>MUZZLE VELOCITY: LOW</span><br><br></p>
+</html>

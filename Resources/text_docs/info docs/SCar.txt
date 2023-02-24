@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 16px;">SCAR-H</span></strong></p>
+<p><span style="font-size: 11px;">This is an automatic assault rifle used by the United States Special Operations Command.</p>
+<p>Known for its tactical viability in close to medium range combat this weapon is a perfect choice for both urban and rural warfare.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: MEDIUM<br>RANGE: MEDIUM<br>RELOAD TIME: MEDIUM<br>MAGAZINE CAPACITY: 21<br>MUZZLE VELOCITY: MEDIUM-HIGH<br></span><br><br></p>
+</html>

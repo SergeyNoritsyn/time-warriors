@@ -1,0 +1,6 @@
+<html>
+<p><strong><span style="font-size: 16px;">Winchester Shotgun Model 1897</span></strong></p>
+<p>The Winchester Model 1897 is a pump-action shotgun with an external hammer and tube magazine<span style="font-size: 11px;">, and used by the armed forces of the United States to great effect in World War I.</p>
+<p>Known for its deadly power in short and medium range combat, this weapon helped clear trenches so effectively that the germans attempted to draw up an agreement so as to ban it.</span></p>
+<p><span style="font-family: 'Lucida Console', Monaco, monospace;">DAMAGE: MEDIUM (per bullet), VERY-HIGH (per shell)<br>RANGE: SHORT<br>RELOAD TIME: SHORT-MEDIUM<br>MAGAZINE CAPACITY: 5<br>MUZZLE VELOCITY: MEDIUM<br></span><br><br></p>
+</html>
